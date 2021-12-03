@@ -4,7 +4,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/9rrnJ7g/20210815-080839.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="ZaraMwol" src="https://img.shields.io/badge/-ZaraMwol-pink?&style=for-the-badge"></a>
+<a href="#"><img title="Zara2.0" src="https://img.shields.io/badge/-ZaraMwol-pink?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
@@ -56,7 +56,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jokerser-x-Raashii/Zaramwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal342/ZARAH-2.O)
      </div>
 <br>
 <br >
@@ -70,8 +70,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
-$ cd Zaramwol
+$ git clone https://github.com/Ajmal342/ZARAH-2.O
+$ cd ZARAH-2.O
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -80,8 +80,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
-$ cd Zaramwol
+$ git clone https://github.com/Ajmal342/ZARAH-2.O
+$ cd ZARAH-2.O
 $ chmod +x *
 $ npm i
 $ node qr.js
